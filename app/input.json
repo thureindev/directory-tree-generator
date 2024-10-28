@@ -1,0 +1,48 @@
+{
+    "thureindev portfolio website": {
+        "homepage": {},
+        "about": {
+            "bio": "An enthusiastic builder, learner, and teacher, My strong foundation in computing and business management complements my hands-on experience in web development and teaching.",
+            "photo": "https://thureindev.github.io/assets/avatar-21f2c271.jpg"
+        },
+        "skills": {
+            "programming_languages": [
+                "Python",
+                "JavaScript",
+                "TypeScript"
+            ],
+            "web_developement": [
+                "NodeJS",
+                "ExpressJS",
+                "Vite"
+            ],
+            "frontend": [
+                "Vue",
+                "React",
+                "SASS",
+                "Bootstrap",
+                "Tailwind"
+            ],
+            "database": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "tools": [
+                "Git",
+                "Docker",
+                "Jekyll",
+                "Kubernetes"
+            ]
+        },
+        "contact": {
+            "email": "thureindev@outlook.com",
+            "phone": "+66 64 135 1355",
+            "social_media": {
+                "github": "https://github.com/thureindev",
+                "linkedin": "https://www.linkedin.com/in/thureindev",
+                "twitter": "https://twitter.com/thureindev"
+            }
+        }
+    }
+}
